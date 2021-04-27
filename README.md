@@ -6,6 +6,8 @@ Technologies:
   * Java (JDK 8);
   * Swing UI.
 
+Developed with Apache NetBeans.
+
 # The only screen
 ![image](https://user-images.githubusercontent.com/43590504/116177819-e2a5b200-a6ea-11eb-9f16-3927f8ffa4d5.png)
 
